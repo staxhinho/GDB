@@ -1,0 +1,90 @@
+body {
+    background-color: #212121;
+}
+
+.Title {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: #eeeeee;
+    font-weight: 700;
+    font-size: xxx-large;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Launch-Date {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: #eeeeee;
+    font-weight: 700;
+    font-size: xx-large;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.Card {
+    width: 20%;
+    margin-bottom: 0px;
+}
+
+.Sinopse {
+    font-family: 'Roboto', sans-serif;
+    color: #eeeeee;
+    font-weight: 500;
+    font-size: larger;
+    margin: 0px;
+    margin-left: 10px;
+    text-align: left;
+}
+
+.Card, .Sinopse{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.Card-Info {
+    display: table-cell;
+    height: 576px;
+    width: 1920px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.Plataformas {
+    font-family: 'Roboto', sans-serif;
+    color: #7b7b7b;
+    font-weight: 600;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.Console {
+    border-radius: 15px;
+    display: flexbox;
+    width: 15%;
+}
+
+.I-Title {
+    font-family: 'Roboto', sans-serif;
+    color: #7b7b7b;
+    font-weight: 600;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.Idl {
+    font-family: 'Roboto', sans-serif;
+    color: #eeeeee;
+    font-weight: 500;
+    font-size: larger;
+    text-align: center;
+}
+
+.Idlt {
+    font-family: 'Roboto', sans-serif;
+    color: #eeeeee;
+    font-weight: 500;
+    font-size: x-large;
+    text-align: center;
+}
